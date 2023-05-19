@@ -2,7 +2,7 @@ open PHP myadmin and
 create a database name "database_project"
 and goto import section 
 and select "student_info.sql"
-then click go button 
-and run the project.
+then click go button (database import successful),
+now you can run the project.
 That's all. Thank You :)
 
