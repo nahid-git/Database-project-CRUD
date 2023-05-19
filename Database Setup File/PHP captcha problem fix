@@ -1,6 +1,7 @@
 Go to C:\xampp\php
 
-and open php.int
+and open "php.int" in notepad and search
+"extension=gd"
 
 and change
 
